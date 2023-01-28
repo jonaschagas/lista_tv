@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1000459/2436/i/600/depositphotos_24366251-stock-photo-soccer-ball.jpg" group-title="Esportes"
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1UtKHSj.png" group-title="Religiosos",TV Metropolitana
+http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1,Premier 1 group-title="Esportes"

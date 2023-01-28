@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1UtKHSj.png" group-title="Religiosos",TV Metropolitana
 http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="TV Aberta",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b694100_sleng.m3u8?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1,Premier 1 group-title="Esportes"
 http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/71.m3u8
